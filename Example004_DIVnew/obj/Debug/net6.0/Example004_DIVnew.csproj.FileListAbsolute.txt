@@ -1,0 +1,15 @@
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\bin\Debug\net6.0\Example004_DIVnew.exe
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\bin\Debug\net6.0\Example004_DIVnew.deps.json
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\bin\Debug\net6.0\Example004_DIVnew.runtimeconfig.json
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\bin\Debug\net6.0\Example004_DIVnew.dll
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\bin\Debug\net6.0\Example004_DIVnew.pdb
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.csproj.AssemblyReference.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.GeneratedMSBuildEditorConfig.editorconfig
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.AssemblyInfoInputs.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.AssemblyInfo.cs
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.csproj.CoreCompileInputs.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.dll
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\refint\Example004_DIVnew.dll
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.pdb
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\Example004_DIVnew.genruntimeconfig.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example004_DIVnew\obj\Debug\net6.0\ref\Example004_DIVnew.dll
