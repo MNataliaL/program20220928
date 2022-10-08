@@ -1,0 +1,15 @@
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+D:\для Натальи\РАЗРАБОТЧИК\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\Урок 1 лекция   2022  09  28\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
